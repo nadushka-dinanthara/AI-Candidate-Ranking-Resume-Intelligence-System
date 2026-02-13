@@ -8,7 +8,7 @@ from src.features.education_extractor import extract_education
 from src.scoring.scoring_engine import rank_candidates
 
 st.set_page_config(page_title="AI Candidate Ranking", layout="wide")
-st.title("🤖 AI Candidate Ranking & Resume Intelligence System")
+st.title("AI Candidate Ranking & Resume Intelligence System")
 st.markdown("---")
 
 # Sidebar: Job Description upload
