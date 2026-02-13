@@ -1,0 +1,23 @@
+# Streamlit UI
+streamlit
+
+# PDF / DOCX parsing
+python-docx
+PyPDF2
+
+# NLP and embeddings
+nltk
+spacy
+scikit-learn
+sentence-transformers
+
+# Data handling
+pandas
+numpy
+
+# Optional visualization
+matplotlib
+seaborn
+
+# For unit testing
+pytest
