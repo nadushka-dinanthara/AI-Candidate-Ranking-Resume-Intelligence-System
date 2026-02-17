@@ -1,5 +1,0 @@
-{
-    "programming": ["python", "java", "c++", "javascript", "react", "node"],
-    "data": ["machine learning", "deep learning", "pandas", "numpy", "tensorflow"],
-    "cloud": ["aws", "azure", "gcp", "docker", "kubernetes"]
-}
